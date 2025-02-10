@@ -1,0 +1,15 @@
+{
+    "name": "othmane",
+    "short_name": "ot",
+    "display": "standalone",
+    "start_url": "./index.html",
+    "description": "john loves this app",
+    "icons": [{
+        "src": "./img/favicon-32x32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      }],
+    "orientation": "portrait-primary",
+    "theme_color": "#bada55",
+    "background_color": "#eeeeee"
+}
